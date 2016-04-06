@@ -116,6 +116,7 @@ a:hover, a:focus {color:#DA4453;}
 #timeline .highlight {padding:1%;}
 #timeline .events {text-align: left;}
 #timeline .events {background-color: #E6E9ED;}
+#timeline .events .events-body a {font-weight:bold; text-decoration:underline;}
 #timeline .timeline dl dd .time {color: #DA4453;}
 #timeline .timeline dl dd .circ {background-color: #DA4453; display:none;}
 #timeline .timeline dl dt {width: 150px;}
